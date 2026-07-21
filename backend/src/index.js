@@ -14,7 +14,7 @@ const app = express();
 const PORT = process.env.PORT || 5001;
 
 const allowedOrigins = [
-  "https://availabilitytrackerfrontend.vercel.app",
+  "https://mentoring-call-scheduling-system-jbs1.onrender.com",
   "http://localhost:3000",
   "http://localhost:5173",
   "http://localhost:5174",
